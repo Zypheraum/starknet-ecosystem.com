@@ -659,8 +659,7 @@ const allJobs: Array<Job> = [
       "- Contribute to the growth and transformation of the blockchain ecosystem.",
     createdOn: new Date("2023-08-21"),
     applyLink: "https://tally.so/r/3xMZ4k",
-}
-,
+  },
   {
     key: "29",
     title: "Frontend Developer - Raum Network",
